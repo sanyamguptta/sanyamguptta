@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanyam Gupta</h1>
+<h1 align="center">Hi 👋, I'm Sanyam</h1>
 
 <h3 align="center">
 Full Stack MERN Developer focused on scalable and real-time web applications.
