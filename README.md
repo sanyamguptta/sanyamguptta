@@ -1,147 +1,99 @@
-<h1 align="center">Hi 👋, I'm Sanyam</h1>
+<h2 align="center">Hi 👋, I'm Sanyam</h2>
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/assets/wave.gif" width="35px">
 
-<h3 align="center">
-Full Stack MERN Developer | Real-Time Systems Engineer | DSA Enthusiast (C++)
-</h3>
+<h4 align="center">
+💻 Full Stack MERN Developer || 🚀 Passionate about Scalable Web Applications & Real-Time Systems || Sanyam from India
+</h4>
 
 <p align="center">
-Building scalable, performant, and real-time web applications using modern full-stack technologies.
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00C6FF&width=600&lines=Full+Stack+Developer+💻;MERN+Stack+Engineer+🌐;Real-Time+Systems+Builder+⚡;DSA+in+C%2B%2B+Problem+Solver+🧠;Always+Learning+New+Things+🚀" />
 </p>
 
 ---
 
-## ⚙️ About Me
+## 👨‍💻 About Me
 
-I am a Full Stack Developer focused on building scalable web applications and real-time systems with strong fundamentals in backend engineering and problem solving.
+🔭 I’m currently working on: Full Stack MERN projects focused on scalability and real-time features
 
-I enjoy working on:
-- End-to-end MERN stack applications
-- Real-time communication systems
-- Backend APIs and scalable architectures
-- Responsive and interactive frontend interfaces
-- Data Structures & Algorithms using C++
+🌱 I’m currently learning: System Design, Redis caching, and Advanced Backend Development
 
----
+👯 I’m looking to collaborate on: Open-source MERN projects and scalable backend systems
 
-## 🧠 Core Engineering Focus
+🤔 I’m looking for help with: Building production-grade scalable applications
 
-### 🚀 Full Stack Development
-- MERN stack applications (MongoDB, Express, React, Node.js)
-- RESTful API design and integration
-- Authentication & authorization systems (JWT)
-- Component-based frontend architecture
+💬 Ask me about: Web Development, MERN Stack, Backend APIs, and DSA
 
-### ⚡ Real-Time Systems
-- Socket.IO based real-time communication
-- Live data synchronization
-- Event-driven backend design
-- Messaging and collaboration systems
+📫 How to reach me: sanyamgupta@example.com
 
-### 🧩 Backend Engineering
-- Node.js & Express scalable APIs
-- MongoDB schema design
-- Redis caching fundamentals
-- Backend optimization and structuring
+😄 Pronouns: He/Him
 
-### 🧮 Problem Solving (DSA in C++)
-- Data Structures & Algorithms
-- Time and space optimization
-- Strong logical and analytical thinking
+⚡ Fun fact: I enjoy turning ideas into scalable real-world applications 😎
 
 ---
 
-## 🛠 Tech Stack
+# 💻 Tech Stack
 
-### Frontend
-React • JavaScript • HTML • CSS • Tailwind CSS • SCSS
-
-### Backend
-Node.js • Express.js
-
-### Database & Real-Time
-MongoDB • Socket.IO • Redis
-
-### Programming
-C++ • Data Structures & Algorithms
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Real-Time Chat Application
-Scalable real-time messaging platform built with Socket.IO, Node.js, MongoDB, and React.
-
-> Focus: WebSockets, event-driven architecture, live communication
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![SASS](https://img.shields.io/badge/sass-hotpink.svg?style=for-the-badge&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 🔹 MERN Full Stack Application
-Full-stack application with authentication, REST APIs, and responsive UI.
+## 🌐 Connect With Me
 
-> Focus: end-to-end system design and API integration
-
----
-
-### 🔹 Scalable Backend API System
-Backend system built using Node.js, Express, MongoDB, and Redis caching.
-
-> Focus: performance optimization and backend architecture
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanyamgupta@example.com)
 
 ---
 
-### 🔹 DSA Problem Solving Repository
-Structured collection of Data Structures & Algorithms problems solved in C++.
-
-> Focus: problem-solving and coding efficiency
-
----
-
-## 📊 GitHub Stats
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanyamguptta&show_icons=true&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyamguptta&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github.com/Lochit-Vinay/Lochit-Vinay/blob/output/github-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sanyamguptta&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanyamguptta&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sanyamguptta&theme=dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyamguptta&theme=dark&hide_border=false&layout=compact" />
 </p>
 
 ---
 
-## 🌱 Currently Learning
-
-- System Design fundamentals
-- Scalable backend architecture
-- Advanced Node.js patterns
-- Redis-based optimization techniques
-- Production-level MERN applications
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-## 🎯 Goals
-
-- Build production-grade scalable applications
-- Improve backend engineering depth
-- Strengthen system design skills
-- Contribute to open-source projects
-- Become a strong full-stack engineer capable of owning systems
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sanyamguptta&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-## 🤝 Connect With Me
-
-- GitHub: https://github.com/sanyamguptta
+[![](https://visitcount.itsvg.in/api?id=sanyamguptta&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
-## 💡 Philosophy
+<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
 
-> “Good developers build features. Great engineers build scalable systems.”
+<p align="center">
+🚀 Keep building. Keep improving. Keep shipping.
+</p>
