@@ -50,7 +50,7 @@
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanyamgupta@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanyamg2018@gmail.com)
 
 ---
 
@@ -64,7 +64,7 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanyamguptta&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
 </p>
 
@@ -74,6 +74,17 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyamguptta&theme=dark&hide_border=false&layout=compact" />
+</p> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanyamguptta&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sanyamguptta&theme=dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyamguptta&theme=dark&hide_border=false&layout=compact&cache_seconds=86400" />
 </p>
 
 ---
