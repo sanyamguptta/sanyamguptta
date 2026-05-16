@@ -1,66 +1,65 @@
-<h1 align="center">Hi 👋, I'm Sanyam </h1>
+<h1 align="center">Hi 👋, I'm Sanyam</h1>
 
 <h3 align="center">
 Full Stack MERN Developer | Real-Time Systems Engineer | DSA Enthusiast (C++)
 </h3>
 
 <p align="center">
-Focused on building scalable, real-time web applications with modern full-stack technologies.
+Building scalable, performant, and real-time web applications using modern full-stack technologies.
 </p>
 
 ---
 
-## ⚙️ Engineering Focus
+## ⚙️ About Me
 
-I am a Full Stack Developer focused on designing and building:
+I am a Full Stack Developer focused on building scalable web applications and real-time systems with strong fundamentals in backend engineering and problem solving.
 
-- Scalable MERN applications
+I enjoy working on:
+- End-to-end MERN stack applications
 - Real-time communication systems
-- Backend-driven web architectures
-- Efficient and responsive frontend interfaces
-- Strong problem-solving foundations using DSA in C++
-
-I enjoy understanding how systems work under the hood — not just building UI, but engineering complete applications.
+- Backend APIs and scalable architectures
+- Responsive and interactive frontend interfaces
+- Data Structures & Algorithms using C++
 
 ---
 
-## 🧠 What I Work On
+## 🧠 Core Engineering Focus
 
 ### 🚀 Full Stack Development
-- REST APIs with Node.js & Express.js
-- Authentication & Authorization (JWT-based systems)
-- Responsive UI with React & Tailwind CSS
-- Component-driven frontend architecture
+- MERN stack applications (MongoDB, Express, React, Node.js)
+- RESTful API design and integration
+- Authentication & authorization systems (JWT)
+- Component-based frontend architecture
 
 ### ⚡ Real-Time Systems
-- Socket.IO based communication systems
+- Socket.IO based real-time communication
 - Live data synchronization
 - Event-driven backend design
-- Scalable messaging architectures
+- Messaging and collaboration systems
 
 ### 🧩 Backend Engineering
-- MongoDB schema design & optimization
-- Redis caching for performance improvement
-- API optimization & structure design
-- Scalable backend architecture patterns
+- Node.js & Express scalable APIs
+- MongoDB schema design
+- Redis caching fundamentals
+- Backend optimization and structuring
 
 ### 🧮 Problem Solving (DSA in C++)
 - Data Structures & Algorithms
-- Time & space optimization
-- Competitive programming practice
+- Time and space optimization
+- Strong logical and analytical thinking
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Frontend
-React • JavaScript • Tailwind CSS • HTML • CSS • SCSS
+React • JavaScript • HTML • CSS • Tailwind CSS • SCSS
 
 ### Backend
 Node.js • Express.js
 
-### Database & Realtime
-MongoDB • Redis • Socket.IO
+### Database & Real-Time
+MongoDB • Socket.IO • Redis
 
 ### Programming
 C++ • Data Structures & Algorithms
@@ -70,46 +69,49 @@ C++ • Data Structures & Algorithms
 ## 🚀 Featured Projects
 
 ### 🔹 Real-Time Chat Application
-A scalable real-time messaging system using Socket.IO, Node.js, MongoDB, and React.
+Scalable real-time messaging platform built with Socket.IO, Node.js, MongoDB, and React.
 
-> Focus: WebSockets, live communication, and backend event handling
+> Focus: WebSockets, event-driven architecture, live communication
 
 ---
 
 ### 🔹 MERN Full Stack Application
-Full-stack application with authentication, REST APIs, and responsive UI design.
+Full-stack application with authentication, REST APIs, and responsive UI.
 
-> Focus: Full-stack architecture and API integration
-
----
-
-### 🔹 Redis-Optimized Backend System
-Backend system demonstrating caching strategies and performance optimization using Redis.
-
-> Focus: Scalability and backend performance engineering
+> Focus: end-to-end system design and API integration
 
 ---
 
-### 🔹 DSA Practice Repository
+### 🔹 Scalable Backend API System
+Backend system built using Node.js, Express, MongoDB, and Redis caching.
+
+> Focus: performance optimization and backend architecture
+
+---
+
+### 🔹 DSA Problem Solving Repository
 Structured collection of Data Structures & Algorithms problems solved in C++.
 
-> Focus: problem solving and algorithmic thinking
+> Focus: problem-solving and coding efficiency
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sanyamguptta&show_icons=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyamguptta&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanyamguptta&show_icons=true&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyamguptta&layout=compact&theme=default&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sanyamguptta&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=sanyamguptta&theme=default&hide_border=true" />
 </p>
 
 ---
@@ -118,28 +120,28 @@ Structured collection of Data Structures & Algorithms problems solved in C++.
 
 - System Design fundamentals
 - Scalable backend architecture
-- Advanced Redis usage
+- Advanced Node.js patterns
+- Redis-based optimization techniques
 - Production-level MERN applications
-- Real-world distributed system concepts
 
 ---
 
-## 🎯 Career Goals
+## 🎯 Goals
 
 - Build production-grade scalable applications
-- Strengthen backend engineering expertise
+- Improve backend engineering depth
+- Strengthen system design skills
 - Contribute to open-source projects
-- Improve system design skills
-- Become a strong full-stack engineer capable of owning complete systems
+- Become a strong full-stack engineer capable of owning systems
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Connect With Me
 
-- GitHub: [sanyamguptta](https://github.com/sanyamguptta)
+- GitHub: https://github.com/sanyamguptta
 
 ---
 
 ## 💡 Philosophy
 
-> "Good developers build features. Great engineers build systems that scale."
+> “Good developers build features. Great engineers build scalable systems.”
