@@ -1,92 +1,99 @@
-<h1 align="center">Hi 👋, I'm Sanyam</h1>
+<h1 align="center">Hi 👋, I'm Sanyam Gupta</h1>
 
 <h3 align="center">
-Full Stack MERN Developer focused on scalable and real-time web applications.
+Full Stack MERN Developer | Real-Time Systems Engineer | DSA Enthusiast (C++)
 </h3>
 
 <p align="center">
-Building modern full-stack systems with React, Node.js, MongoDB, Socket.IO & Redis.
+Focused on building scalable, real-time web applications with modern full-stack technologies.
 </p>
 
 ---
 
-## 🚀 About Me
+## ⚙️ Engineering Focus
 
-- 💻 Full Stack Developer focused on building scalable MERN applications
-- ⚡ Interested in real-time communication systems and backend architecture
-- 🌐 Working with React, Tailwind CSS, Node.js, Express.js & MongoDB
-- 🔄 Exploring Redis caching and scalable backend optimizations
-- 🧠 Solving DSA problems in C++ to strengthen problem-solving skills
-- 📚 Continuously learning system design and production-level engineering concepts
+I am a Full Stack Developer focused on designing and building:
+
+- Scalable MERN applications
+- Real-time communication systems
+- Backend-driven web architectures
+- Efficient and responsive frontend interfaces
+- Strong problem-solving foundations using DSA in C++
+
+I enjoy understanding how systems work under the hood — not just building UI, but engineering complete applications.
+
+---
+
+## 🧠 What I Work On
+
+### 🚀 Full Stack Development
+- REST APIs with Node.js & Express.js
+- Authentication & Authorization (JWT-based systems)
+- Responsive UI with React & Tailwind CSS
+- Component-driven frontend architecture
+
+### ⚡ Real-Time Systems
+- Socket.IO based communication systems
+- Live data synchronization
+- Event-driven backend design
+- Scalable messaging architectures
+
+### 🧩 Backend Engineering
+- MongoDB schema design & optimization
+- Redis caching for performance improvement
+- API optimization & structure design
+- Scalable backend architecture patterns
+
+### 🧮 Problem Solving (DSA in C++)
+- Data Structures & Algorithms
+- Time & space optimization
+- Competitive programming practice
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=flat&logo=tailwind-css)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+React • JavaScript • Tailwind CSS • HTML • CSS • SCSS
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
+Node.js • Express.js
 
-### Database & Real-Time
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio)
+### Database & Realtime
+MongoDB • Redis • Socket.IO
 
-### Problem Solving
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
+### Programming
+C++ • Data Structures & Algorithms
 
 ---
 
-## ⚡ Engineering Focus
+## 🚀 Featured Projects
 
-### Full Stack Development
-- REST APIs
-- Authentication systems
-- Frontend architecture
-- Backend integration
-- Scalable MERN applications
+### 🔹 Real-Time Chat Application
+A scalable real-time messaging system using Socket.IO, Node.js, MongoDB, and React.
 
-### Real-Time Systems
-- Socket.IO communication
-- Event-driven architecture
-- Real-time messaging systems
-- Live application updates
-
-### Backend Engineering
-- Express.js APIs
-- MongoDB integration
-- Redis caching
-- Authentication & authorization
-- API optimization
-
-### Problem Solving
-- Data Structures & Algorithms in C++
-- Problem-solving fundamentals
-- Optimized coding approaches
+> Focus: WebSockets, live communication, and backend event handling
 
 ---
 
-## 📌 Featured Projects
+### 🔹 MERN Full Stack Application
+Full-stack application with authentication, REST APIs, and responsive UI design.
 
-### 🔹 Real-Time Chat Platform
-> Scalable real-time communication platform using Socket.IO, Node.js, MongoDB, and React.
+> Focus: Full-stack architecture and API integration
 
-### 🔹 Full Stack MERN Application
-> Production-style MERN application with authentication, REST APIs, and responsive UI.
+---
 
-### 🔹 Redis-Powered Backend System
-> Backend-focused project exploring caching, optimization, and scalable architecture concepts.
+### 🔹 Redis-Optimized Backend System
+Backend system demonstrating caching strategies and performance optimization using Redis.
 
-### 🔹 DSA Repository
-> Structured collection of DSA problems and optimized C++ solutions.
+> Focus: Scalability and backend performance engineering
+
+---
+
+### 🔹 DSA Practice Repository
+Structured collection of Data Structures & Algorithms problems solved in C++.
+
+> Focus: problem solving and algorithmic thinking
 
 ---
 
@@ -94,7 +101,6 @@ Building modern full-stack systems with React, Node.js, MongoDB, Socket.IO & Red
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanyamguptta&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyamguptta&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
@@ -110,32 +116,30 @@ Building modern full-stack systems with React, Node.js, MongoDB, Socket.IO & Red
 
 ## 🌱 Currently Learning
 
-- Scalable backend systems
-- Redis caching strategies
-- Advanced Express.js architecture
-- System design fundamentals
-- Production-level MERN engineering
+- System Design fundamentals
+- Scalable backend architecture
+- Advanced Redis usage
+- Production-level MERN applications
+- Real-world distributed system concepts
 
 ---
 
-## 🎯 Developer Goals
+## 🎯 Career Goals
 
-- Build scalable real-time applications
-- Improve backend architecture expertise
-- Contribute to open source projects
-- Strengthen DSA & system design skills
-- Develop production-grade full-stack systems
+- Build production-grade scalable applications
+- Strengthen backend engineering expertise
+- Contribute to open-source projects
+- Improve system design skills
+- Become a strong full-stack engineer capable of owning complete systems
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let’s Connect
 
-<p align="left">
-<a href="https://github.com/sanyamguptta">GitHub</a>
-</p>
+- GitHub: [sanyamguptta](https://github.com/sanyamguptta)
 
 ---
 
 ## 💡 Philosophy
 
-> Focus on building scalable, maintainable, and user-centric applications while continuously improving engineering fundamentals.
+> "Good developers build features. Great engineers build systems that scale."
