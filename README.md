@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanyam Gupta</h1>
+<h1 align="center">Hi 👋, I'm Sanyam </h1>
 
 <h3 align="center">
 Full Stack MERN Developer | Real-Time Systems Engineer | DSA Enthusiast (C++)
@@ -100,8 +100,8 @@ Structured collection of Data Structures & Algorithms problems solved in C++.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanyamguptta&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyamguptta&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sanyamguptta&show_icons=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyamguptta&layout=compact" />
 </p>
 
 ---
