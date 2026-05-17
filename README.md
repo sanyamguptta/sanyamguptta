@@ -23,7 +23,7 @@
 
 💬 Ask me about: Web Development, MERN Stack, Backend APIs, and DSA
 
-📫 How to reach me: sanyamgupta@example.com
+📫 How to reach me: sanyamg2018@gmail.com
 
 😄 Pronouns: He/Him
 
