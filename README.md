@@ -79,9 +79,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sanyamguptta&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=sanyamguptta&theme=dark&hide_border=false" />
-</p>
+</p> -->
+<img src="https://streak-stats.demolab.com?user=sanyamguptta&theme=tokyonight&hide_border=true&cache_seconds=3600" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyamguptta&theme=dark&hide_border=false&layout=compact&cache_seconds=86400" />
